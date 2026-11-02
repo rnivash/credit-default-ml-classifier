@@ -17,8 +17,6 @@ deployed in a Streamlit app.
 ## c. GitHub repository
 https://github.com/rnivash/credit-default-ml-classifier
 
-Live app: https://credit-default-ml-classifier-ngab2s5yedhsar97l5spik.streamlit.app/
-
 ## d. Models used
 
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
