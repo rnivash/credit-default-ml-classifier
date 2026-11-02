@@ -17,7 +17,7 @@ deployed in a Streamlit app.
 ## c. GitHub repository
 https://github.com/rnivash/credit-default-ml-classifier
 
-Live app: <your streamlit link>
+Live app: https://credit-default-ml-classifier-ngab2s5yedhsar97l5spik.streamlit.app/
 
 ## d. Models used
 
